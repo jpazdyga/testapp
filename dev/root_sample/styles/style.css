@@ -8,9 +8,3 @@ background: ##00aa77;
 background-image: url("../media/images/ZenBG-1.png"), url("../media/images/ZenBG-2.png");
 background-repeat: repeat-x, repeat;
 }
-
-#CSSTable {
-width: 700px ;
-margin-left: auto;
-margin-right: auto;
-}
