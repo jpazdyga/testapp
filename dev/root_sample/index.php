@@ -5,7 +5,7 @@ echo "<link href='./styles/table.css' rel='stylesheet' type='text/css' />";
 echo "<body>";
 
 echo "
-<div class='CSSTable' style='width:600px;height:150px;'>
+<div id='CSSTable' class='CSSTable' style='width:600px;height:150px;'>
 <table>
 <tr> 
 <td>
