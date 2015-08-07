@@ -17,6 +17,11 @@ This a sample page
 <a href='phpinfo.php'>PHP info</a>
 </td>
 </tr>
+<tr>
+<td>
+<a href='http://jakub.pazdyga.pl'>Jakub's blog</a>
+</td>
+</tr>
 </table>
 
 ";
