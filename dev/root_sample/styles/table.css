@@ -1,5 +1,6 @@
 .CSSTable {
-	margin:0px;padding:0px;
+	margin-left: auto;
+	margin-right: auto;
 	width:100%;
 	box-shadow: 10px 10px 5px #888888;
 	border:1px solid #ffffff;
