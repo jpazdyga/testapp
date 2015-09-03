@@ -1,6 +1,6 @@
 <?php
 
-header('Refresh: 5; URL=http://sample.pazdyga.pl/index.php');
+header('Refresh: 5; URL=index.php');
 
 echo "<link href='./styles/style.css' rel='stylesheet' type='text/css' />";
 echo "<link href='./styles/table.css' rel='stylesheet' type='text/css' />";
