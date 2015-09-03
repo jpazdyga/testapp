@@ -14,6 +14,11 @@ This a sample page
 </tr>
 <tr>
 <td>
+<a href='dbtest.php'>Database test</a>
+</td>
+</tr>
+<tr>
+<td>
 <a href='phpinfo.php'>PHP info</a>
 </td>
 </tr>
